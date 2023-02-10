@@ -1,6 +1,6 @@
 module.exports = {
 
-    HOST: 'localhost',
+    HOST: '43.205.211.186',
     USER: 'root',
     PASSWORD: 'Abdul@Ahad@Ansari@1234',
     DB: 'node_sequelize_api_db',
